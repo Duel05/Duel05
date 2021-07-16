@@ -1,9 +1,12 @@
 ### My name is Duel.
 I am a 16-year-old C#/D/Rust programmer. I don't think cheese is racist, and I like programming open-source software that everyone can use.
 
+You can reach me at [duelunity@gmail.com](mailto:duelunity@gmail.com)!
+
 ### My public projects:
 * [The Bearded Code of Conduct](https://github.com/DuelTheBearded/code-of-conduct).
 
+[Odd Future](https://www.youtube.com/watch?v=v1YojYU5nPQ) ☺
 <!--
 **DuelTheBearded/DuelTheBearded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

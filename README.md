@@ -11,7 +11,7 @@ You can reach me at [duelunity@gmail.com](mailto:duelunity@gmail.com)!
 * [The Bearded Code of Conduct](https://github.com/DuelTheBearded/code-of-conduct).
 
 <p align=center>
-    <a href="/LICENSE"><img src="https://img.shields.io/github/followers/DuelTheBearded?style=social" alt="Follow" /></a>
+    ![GitHub followers](https://img.shields.io/github/followers/DuelTheBearded?style=social)
 </p>
 
 [Odd Future](https://www.youtube.com/watch?v=v1YojYU5nPQ) ☺

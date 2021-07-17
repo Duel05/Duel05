@@ -10,9 +10,9 @@ You can reach me at [duelunity@gmail.com](mailto:duelunity@gmail.com)!
 ### My public projects:
 * [The Bearded Code of Conduct](https://github.com/DuelTheBearded/code-of-conduct).
 
-![GitHub followers](https://img.shields.io/github/followers/DuelTheBearded?style=social)
+[Odd Future](https://www.youtube.com/watch?v=v1YojYU5nPQ) ☺ 
 
-[Odd Future](https://www.youtube.com/watch?v=v1YojYU5nPQ) ☺
+![GitHub followers](https://img.shields.io/github/followers/DuelTheBearded?style=social)
 <!--
 **DuelTheBearded/DuelTheBearded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

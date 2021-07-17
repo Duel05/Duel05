@@ -1,5 +1,5 @@
 ### My name is Duel.
-I am a 16-year-old C#/D/Rust programmer. I don't think cheese is racist, and I like programming open-source software that everyone can use.
+I am a 16-year-old C#/D/Rust programmer. I don't think cheese is racist, and I love programming. I have been programming for 6 years now, and I hope I can make something other people will enjoy using.
 
 You can reach me at [duelunity@gmail.com](mailto:duelunity@gmail.com)!
 

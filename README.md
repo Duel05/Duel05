@@ -10,9 +10,7 @@ You can reach me at [duelunity@gmail.com](mailto:duelunity@gmail.com)!
 ### My public projects:
 * [The Bearded Code of Conduct](https://github.com/DuelTheBearded/code-of-conduct).
 
-<p align=center>
-    ![GitHub followers](https://img.shields.io/github/followers/DuelTheBearded?style=social)
-</p>
+![GitHub followers](https://img.shields.io/github/followers/DuelTheBearded?style=social)
 
 [Odd Future](https://www.youtube.com/watch?v=v1YojYU5nPQ) ☺
 <!--
